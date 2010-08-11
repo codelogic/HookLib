@@ -1,0 +1,1 @@
+HookLib is a simple project built off of an old version of a hook manager for C# that provides .NET events for mouse and keyboard input.
