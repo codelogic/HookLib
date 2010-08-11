@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HookLib.Console", "HookLib.Console\HookLib.Console.csproj", "{D8796D1E-0B71-4C3A-B4FB-68A438B7641F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HookLib", "HookLib\HookLib.csproj", "{3858AA1D-13E6-4BF6-A177-D76B47092A9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8796D1E-0B71-4C3A-B4FB-68A438B7641F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8796D1E-0B71-4C3A-B4FB-68A438B7641F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8796D1E-0B71-4C3A-B4FB-68A438B7641F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8796D1E-0B71-4C3A-B4FB-68A438B7641F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3858AA1D-13E6-4BF6-A177-D76B47092A9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3858AA1D-13E6-4BF6-A177-D76B47092A9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3858AA1D-13E6-4BF6-A177-D76B47092A9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3858AA1D-13E6-4BF6-A177-D76B47092A9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
